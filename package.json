@@ -24,6 +24,10 @@
   "engines": {
     "node": "*"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node config-cake.js"
+  },
   "dependencies": {
     "request": "~2.60.0",
     "underscore": "^1.7.0",
